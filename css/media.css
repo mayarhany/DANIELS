@@ -1,0 +1,13 @@
+@media screen  and (min-width:1400px){
+    .w-xlg-75{
+        width: 75%;
+    }
+}
+
+@media screen  and (max-width:1200px){
+    /* * about section */
+    .about .hero-img::after{
+        bottom: 40px;
+    }
+}
+
